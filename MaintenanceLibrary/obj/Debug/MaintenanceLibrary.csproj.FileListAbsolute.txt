@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\bin\Debug\MaintenanceLibrary.dll
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\bin\Debug\MaintenanceLibrary.pdb
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\bin\Debug\System.IO.Compression.dll
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.csproj.CopyComplete
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.dll
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.pdb
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.csprojAssemblyReference.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\MaintenanceLibrary\MaintenanceLibrary\bin\Debug\MaintenanceLibrary.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\MaintenanceLibrary\MaintenanceLibrary\bin\Debug\MaintenanceLibrary.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\MaintenanceLibrary\MaintenanceLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\Maintena.73DEC36E.Up2Date
+C:\Users\alexa\OneDrive\Área de Trabalho\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\MaintenanceLibrary\MaintenanceLibrary\obj\Debug\MaintenanceLibrary.pdb
